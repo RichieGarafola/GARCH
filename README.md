@@ -3,7 +3,8 @@ How to forecast volatility with GARCH.
 
 Professional options traders don’t make bets that stocks will go up or down. They look for mispricings in the market. Mispricing happens when the market price is different than what a model says the price should be.
 
-    If the price of an option is $1.50 and the model shows it should be $1.75, a trader would buy the option "cheap" and wait for it to rise to $1.75.
+    If the price of an option is $1.50 and the model shows it should be $1.75, 
+    a trader would buy the option "cheap" and wait for it to rise to $1.75.
 
 Derivatives models use volatility to determine the value. So quants spend most of their time building the best volatility forecasts they can to find market mispricings. 
 
